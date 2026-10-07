@@ -60,8 +60,8 @@ and extract it so the folder is named `UCI_HAR_Dataset/` in the project root.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/ishapageni/human-activity-recognition.git
+cd human-activity-recognition
 ```
 
 ### 2. Create an environment and install dependencies
@@ -158,6 +158,3 @@ Dataset: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. 
 
 Code in this repository is released under the [MIT License](LICENSE). The UCI HAR dataset has its own terms; please see the UCI repository page.
 
-## Author
-
-**<Your Name>** - [GitHub](https://github.com/<your-username>) - [LinkedIn](https://linkedin.com/in/<your-handle>)
